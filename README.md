@@ -31,4 +31,13 @@ A Windows Forms application built with C# and .NET Framework that provides essen
 > For full system control (e.g., stopping services), run Visual Studio as **Administrator**
 
 ## 🧩 Folder Structure
-WinSysToolkit/ ├── Form1.cs ├── Form1.Designer.cs ├── Program.cs ├── WinSysToolkit.csproj └── README.md
+WinSysToolkit/
+├── bin/
+├── obj/
+├── Form1.cs
+├── Form1.Designer.cs
+├── Form1.resx
+├── Program.cs
+├── WinSysToolkit.csproj
+└── README.md
+
